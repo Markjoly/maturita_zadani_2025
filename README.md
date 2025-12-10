@@ -1,4 +1,15 @@
-# Praktická maturitní práce – kompletní vysvětlení
+# Maturitní zadání 2025 – Gymnázium Havlíčkův Brod
+
+Tento repozitář obsahuje kompletní dokumentaci a zadání pro praktické maturitní práce studentů.
+
+## 📁 Struktura repozitáře
+
+- **`maturita_vysvetleni.md`** – Kompletní vysvětlení požadavků na maturitní práci
+- **`zadani_template.md`** – Šablona pro vytvoření vlastního zadání
+- **`zadani_*.md`** – Individuální zadání jednotlivých studentů
+- **`experimentalni_zadani/`** – Experimentální podrobnější verze zadání (jen pro zajímavost)
+
+---
 
 ## 1. ÚČEL MATURITY
 
